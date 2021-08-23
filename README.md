@@ -1,1 +1,1 @@
-There is a naming conflict in message_create.go, message_update message_query message_delete
+There is a naming conflict in ent/message_create.go, ent/message_update.go ent/message_query.go ent/message_delete.go
